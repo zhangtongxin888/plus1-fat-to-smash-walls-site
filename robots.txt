@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://plus1fattosmashwalls.wiki
+Sitemap: https://plus1fattosmashwalls.wiki/sitemap.xml
